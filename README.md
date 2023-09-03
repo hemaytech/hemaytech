@@ -1,4 +1,4 @@
-# About Me
+# Hi there 👋🏻, I am Hema
 
 I am an experienced technical cloud-based data consultant with a passion for data and its relevant technologies. My goal is to become a top data leader in the technical community. I enjoy sharing knowledge and insights about data engineering, data analytics, generative AI, and Machine Learning through various channels.
 
@@ -26,9 +26,9 @@ I am an experienced technical cloud-based data consultant with a passion for dat
 
 You can find my articles, tutorials, and content related to data and technology on various platforms, including:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Medium](https://medium.com/@yourusername)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/hemaytech)
+- [Medium](https://medium.com/@hemaytech)
+- [GitHub](https://github.com/hemaytech)
 
 Feel free to connect with me, explore my projects, and reach out for collaboration opportunities or discussions about data and technology!
 
