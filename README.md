@@ -32,7 +32,7 @@ You can find my articles, tutorials, and content related to data and technology 
 
 Feel free to connect with me, explore my projects, and reach out for collaboration opportunities or discussions about data and technology!
 
-## **VOLUNTEERING**
+# **VOLUNTEERING**
 
 ## ROLE 1: # **Data Community Leader @CloudnLoud Community**
 <P>
