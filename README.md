@@ -16,7 +16,7 @@ I am an experienced technical cloud-based data consultant with a passion for dat
 - **Infrastructure as Code (IaC):** Skilled in automating infrastructure provisioning using tools like Terraform.
 - **Serverless Computing:** Knowledgeable in building serverless applications and functions.
 
-## Tech Contributions and Blogs
+# Tech Contributions and Blogs
 
 - **Open Source Contributions:** Active contributor to open source projects related to data and cloud technologies.
 - **Community Involvement:** Regularly participate in technical forums, webinars, and conferences.
