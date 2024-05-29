@@ -6,8 +6,6 @@ I am an experienced technical cloud-based data consultant with a passion for dat
 
 - **Data Engineering:** Proficient in designing and implementing data pipelines, ETL processes, and data warehousing solutions.
 - **Data Analytics:** Skilled in data analysis, visualization, and interpretation to drive data-driven decisions.
-- **Generative AI:** Experienced in developing generative models and applications using AI techniques.
-- **Machine Learning:** Proficient in building and deploying ML models for various use cases.
 
 ## Cloud Native Skills
 
