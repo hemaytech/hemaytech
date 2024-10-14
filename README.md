@@ -16,7 +16,6 @@ I am an experienced technical cloud-based data consultant with a passion for dat
 
 # Tech Contributions and Blogs
 
-- **Open Source Contributions:** Active contributor to open source projects related to data and cloud technologies.
 - **Community Involvement:** Regularly participate in technical forums, webinars, and conferences.
 - **Mentoring:** Passionate about mentoring aspiring data professionals and sharing knowledge.
 
