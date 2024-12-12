@@ -23,7 +23,7 @@ I am an experienced technical cloud-based data consultant with a passion for dat
 
 You can find my articles, tutorials, and content related to data and technology on various platforms, including:
 
-- [LinkedIn](https://www.linkedin.com/in/hemaytech)
+- [LinkedIn](https://www.linkedin.com/in/hema-yerramsetti)
 - [Medium](https://medium.com/@hemaytech)
 - [GitHub](https://github.com/hemaytech)
 
